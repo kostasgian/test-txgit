@@ -16,3 +16,5 @@ msgstr ""
 msgid "foo"
 msgstr "test"
 
+msgid "foo2"
+msgstr "Another string"
