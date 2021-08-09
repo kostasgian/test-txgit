@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-01-04 14:38-0600\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Mime-Version: 1.0\n"
+"Plural-Forms: \n"
+"X-Generator: @lingui/cli\n"
+
+msgid "foo"
+msgstr "test"
+
