@@ -21,3 +21,6 @@ msgstr "Another string"
 
 msgid "foo3"
 msgstr "Come Alex"
+
+msgid "foo4"
+msgstr "Hello there"
