@@ -31,3 +31,6 @@ msgstr "Hallo zusammen"
 
 msgid "foo5"
 msgstr "Noch ein Hallo fur alles"
+
+msgid "foo6"
+msgstr "Noch ein Hallo"
