@@ -30,4 +30,4 @@ msgid "foo4"
 msgstr "Hallo zusammen"
 
 msgid "foo5"
-msgstr "Noch ein Hallo"
+msgstr "Noch ein Hallo fur alles"
