@@ -18,3 +18,6 @@ msgstr "test"
 
 msgid "foo2"
 msgstr "Another string"
+
+msgid "foo3"
+msgstr "Come Alex"
