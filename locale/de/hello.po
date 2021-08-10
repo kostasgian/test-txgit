@@ -28,3 +28,6 @@ msgstr "Komm Alex "
 
 msgid "foo4"
 msgstr "Hallo zusammen"
+
+msgid "foo5"
+msgstr "Noch ein Hallo"
