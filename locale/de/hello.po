@@ -19,3 +19,12 @@ msgstr ""
 
 msgid "foo"
 msgstr "Test"
+
+msgid "foo2"
+msgstr "Ein weiterer String "
+
+msgid "foo3"
+msgstr "Komm Alex "
+
+msgid "foo4"
+msgstr "Hallo zusammen"
