@@ -27,3 +27,6 @@ msgstr "Hello there"
 
 msgid "foo5"
 msgstr "Another hello"
+
+msgid "foo6"
+msgstr "Yet another hello"
